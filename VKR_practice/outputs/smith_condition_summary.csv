@@ -1,0 +1,5 @@
+activation,dynamics,csv_found,total_grid_points,finite_points,applicable_points,smith_true_points,smith_false_points,fraction_among_all,fraction_among_finite,fraction_among_applicable,eta
+relu,original,True,3721,2760,900,900,0,0.24187046492878259,0.32608695652173914,1.0,0.0
+relu,modified,True,3721,2760,900,900,0,0.24187046492878259,0.32608695652173914,1.0,0.0
+softmax,original,True,3721,3721,0,0,0,0.0,0.0,,0.0
+softmax,modified,True,3721,3721,0,0,0,0.0,0.0,,0.0

@@ -1,0 +1,49 @@
+Smith condition summary
+=======================
+
+Condition: lambda1_plus_lambda2 < -0.0
+
+Activation: relu
+Dynamics:   original
+Total grid points:       3721
+Finite points:           2760
+Applicable points:       900
+Smith true points:       900
+Smith false points:      0
+Fraction among all:      24.19%
+Fraction among finite:   32.61%
+Fraction among applicable: 100.00%
+
+Activation: relu
+Dynamics:   modified
+Total grid points:       3721
+Finite points:           2760
+Applicable points:       900
+Smith true points:       900
+Smith false points:      0
+Fraction among all:      24.19%
+Fraction among finite:   32.61%
+Fraction among applicable: 100.00%
+
+Activation: softmax
+Dynamics:   original
+Total grid points:       3721
+Finite points:           3721
+Applicable points:       0
+Smith true points:       0
+Smith false points:      0
+Fraction among all:      0.00%
+Fraction among finite:   0.00%
+Fraction among applicable: undefined
+
+Activation: softmax
+Dynamics:   modified
+Total grid points:       3721
+Finite points:           3721
+Applicable points:       0
+Smith true points:       0
+Smith false points:      0
+Fraction among all:      0.00%
+Fraction among finite:   0.00%
+Fraction among applicable: undefined
+

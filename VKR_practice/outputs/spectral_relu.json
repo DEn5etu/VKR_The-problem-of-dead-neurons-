@@ -1,0 +1,82 @@
+[
+  {
+    "point_id": 0,
+    "y": [
+      -1.0,
+      1.2
+    ],
+    "rank_Lambda": 1,
+    "nullity_Lambda": 1,
+    "Lambda_eigenvalues": [
+      0.0,
+      1.0
+    ],
+    "eig_Wperp_Lambdaperp_minus_I": [
+      [
+        -0.36372301241461247,
+        0.0
+      ]
+    ],
+    "eig_Lambda_minus_Lambda_W_Lambda": [
+      0.0,
+      0.36372301241461247
+    ],
+    "eig_Lambda_W_Lambda_minus_Lambda": [
+      -0.36372301241461247,
+      -0.0
+    ]
+  },
+  {
+    "point_id": 1,
+    "y": [
+      1.0,
+      1.0
+    ],
+    "rank_Lambda": 2,
+    "nullity_Lambda": 0,
+    "Lambda_eigenvalues": [
+      1.0,
+      1.0
+    ],
+    "eig_Wperp_Lambdaperp_minus_I": [
+      [
+        -0.7598833194604854,
+        0.0
+      ],
+      [
+        -0.34999999999999987,
+        0.0
+      ]
+    ],
+    "eig_Lambda_minus_Lambda_W_Lambda": [
+      0.3499999999999999,
+      0.7598833194604853
+    ],
+    "eig_Lambda_W_Lambda_minus_Lambda": [
+      -0.7598833194604853,
+      -0.3499999999999999
+    ]
+  },
+  {
+    "point_id": 2,
+    "y": [
+      -1.0,
+      -1.0
+    ],
+    "rank_Lambda": 0,
+    "nullity_Lambda": 2,
+    "Lambda_eigenvalues": [
+      0.0,
+      0.0
+    ],
+    "eig_Wperp_Lambdaperp_minus_I": [],
+    "eig_Lambda_minus_Lambda_W_Lambda": [
+      0.0,
+      0.0
+    ],
+    "eig_Lambda_W_Lambda_minus_Lambda": [
+      -0.0,
+      -0.0
+    ]
+  }
+]

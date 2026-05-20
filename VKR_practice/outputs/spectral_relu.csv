@@ -1,0 +1,4 @@
+point_id,y1,y2,rank_Lambda,nullity_Lambda,max_real_eig_active,min_eig_energy_hessian,max_eig_energy_negative
+0,-1.0,1.2,1,1,-0.36372301241461247,0.0,-0.0
+1,1.0,1.0,2,0,-0.34999999999999987,0.3499999999999999,-0.3499999999999999
+2,-1.0,-1.0,0,2,,0.0,-0.0

@@ -1,0 +1,3 @@
+eq_id,dynamics_used_for_search,y1,y2,original_residual_norm,modified_field_norm,is_original_equilibrium,is_modified_equilibrium
+0,original,-0.3155480169877304,0.1483766685606784,5.928593550334434e-17,5.242985308791304e-17,True,True
+0,modified,-0.31554801698773044,0.14837666856067833,4.443059973708341e-17,4.119259577522195e-17,True,True
